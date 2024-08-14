@@ -1,5 +1,7 @@
 # 💫 About Me:
-I' am khiari aymen 
+Hi 👋 , I am Khiari Aymen, I am 23 years old.
+
+I am a fourth-year engineer specializing in Business Intelligence 📊, passionate about .NET software development 🌐 and Angular ⚛️. I have worked on Full Stack 💻 and BI 📈 projects, creating solutions from data collection to web application implementation. My academic journey and internships have enabled me to develop technical 🛠️ and analytical 📉 expertise that I am eager to apply.
 
 
 ## 🌐 Socials:
